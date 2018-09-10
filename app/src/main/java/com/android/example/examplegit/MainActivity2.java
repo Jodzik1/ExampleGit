@@ -15,7 +15,7 @@ public class MainActivity2 extends AppCompatActivity {
 
         Button but = (Button) findViewById(R.id.button);
 
-        but.setOnClickListener(new View.OnClickListener() {
+        but.setOnClickListener(new View.OnClickListener() { 
             @Override
             public void onClick(View v) {
                 v.setBackgroundColor(Color.GREEN);
