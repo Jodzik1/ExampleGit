@@ -18,7 +18,10 @@ public class MainActivity extends AppCompatActivity {
         but.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) { 
-                v.setBackgroundColor(Color.GREEN);
+            
+                
+                
+        
             }
         });
     }
