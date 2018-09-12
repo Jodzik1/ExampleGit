@@ -19,7 +19,9 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) { 
             
-                
+                 v.setBackgroundColor(Color.BLACK); 
+                 v.setBackgroundColor(Color.BLACK); 
+                 v.setBackgroundColor(Color.BLACK); 
                 
         
             }
