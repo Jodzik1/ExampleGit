@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
                 v.setBackgroundColor(Color.BLACK);
                 v.setBackgroundColor(Color.BLACK);
                 v.setBackgroundColor(Color.BLACK);
+                v.setBackgroundColor(Color.BLACK);
 
         
             }
